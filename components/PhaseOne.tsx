@@ -12,7 +12,6 @@ import ParticlesBackground from '@/components/ParticlesBackground';
 export default function PhaseOne() {
     return (
         <>
-            <ParticlesBackground />
             <div className="flex flex-col items-center gap-10 animate-fadeIn z-10 relative">
                 <h2 className="text-5xl font-extrabold text-pink-500">Neon Mode: Activated</h2>
 
